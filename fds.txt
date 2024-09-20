@@ -1,0 +1,2 @@
+библиотека functools и itertools (кеширование)
+программирование pattern`ом
